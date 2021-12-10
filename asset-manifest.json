@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jsonaxios/static/css/main.724c31e8.chunk.css",
+    "main.js": "/jsonaxios/static/js/main.a3ace52b.chunk.js",
+    "main.js.map": "/jsonaxios/static/js/main.a3ace52b.chunk.js.map",
+    "runtime-main.js": "/jsonaxios/static/js/runtime-main.729362a6.js",
+    "runtime-main.js.map": "/jsonaxios/static/js/runtime-main.729362a6.js.map",
+    "static/js/2.d094fad3.chunk.js": "/jsonaxios/static/js/2.d094fad3.chunk.js",
+    "static/js/2.d094fad3.chunk.js.map": "/jsonaxios/static/js/2.d094fad3.chunk.js.map",
+    "static/js/3.6eea4133.chunk.js": "/jsonaxios/static/js/3.6eea4133.chunk.js",
+    "static/js/3.6eea4133.chunk.js.map": "/jsonaxios/static/js/3.6eea4133.chunk.js.map",
+    "index.html": "/jsonaxios/index.html",
+    "static/css/main.724c31e8.chunk.css.map": "/jsonaxios/static/css/main.724c31e8.chunk.css.map",
+    "static/js/2.d094fad3.chunk.js.LICENSE.txt": "/jsonaxios/static/js/2.d094fad3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.729362a6.js",
+    "static/js/2.d094fad3.chunk.js",
+    "static/css/main.724c31e8.chunk.css",
+    "static/js/main.a3ace52b.chunk.js"
+  ]
+}
